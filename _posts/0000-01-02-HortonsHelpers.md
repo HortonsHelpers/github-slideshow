@@ -2,6 +2,6 @@ layout: slide
 title: "Welcome to our second slide!"
 
 Your text
-use the left arrow to go back
+I'm editing this file in hopes that I progress
 
 commit
